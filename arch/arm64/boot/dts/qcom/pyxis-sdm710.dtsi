@@ -53,3 +53,12 @@
 		<1843200>,
 		<2208000>;
 };
+
+/* sdm670.dtsi */
+&CPU6 {
+	clock-frequency = <2208000000>;
+};
+
+&CPU7 {
+	clock-frequency = <2208000000>;
+};
